@@ -1,0 +1,14 @@
+{
+    "name": "vendor/autoload.php",
+    "description": "smartyViewer",
+    "type": "projekt",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ikarus"
+        }
+    ],
+    "require": {
+        "smarty/smarty": "^5.1"
+    }
+}
